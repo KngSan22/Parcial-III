@@ -1,3 +1,5 @@
+package EcoRuta;
+
 /* Formato de valores en pesos con punto como separador de miles: $24.200
 Esta clase es opcional, solo para que quede más bonito */
 final class Formato {
