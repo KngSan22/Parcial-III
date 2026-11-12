@@ -1,0 +1,67 @@
+
+# ==============================
+# Maven
+# ==============================
+target/
+
+# ==============================
+# Java
+# ==============================
+*.class
+
+# ==============================
+# IntelliJ IDEA - Personal
+# ==============================
+.idea/shelf/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/httpRequests/
+
+# Archivos personales del IDE
+*.iws
+
+# ==============================
+# Kotlin
+# ==============================
+.kotlin/
+
+# ==============================
+# Eclipse
+# ==============================
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# ==============================
+# NetBeans
+# ==============================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# ==============================
+# Visual Studio Code
+# ==============================
+.vscode/
+
+# ==============================
+# Windows
+# ==============================
+Thumbs.db
+desktop.ini
+
+# ==============================
+# macOS
+# ==============================
+.DS_Store
