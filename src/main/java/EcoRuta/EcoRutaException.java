@@ -1,3 +1,5 @@
+package EcoRuta;
+
 /* Base de todas las excepciones
 Es no verificada (RuntimeException): las operaciones que se rechazan lanzan
 una subclase de esta y dejan la información registrada sin cambios. */

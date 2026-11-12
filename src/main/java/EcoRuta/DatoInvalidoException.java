@@ -1,3 +1,5 @@
+package EcoRuta;
+
 // Un dato no cumple su regla: texto vacío, peso no positivo, equipos negativos, valor nulo, etc
 public class DatoInvalidoException extends EcoRutaException {
 

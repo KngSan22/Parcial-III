@@ -1,3 +1,5 @@
+package EcoRuta;
+
 // Validaciones comunes para no repetir código en cada clase
 final class Validaciones {
 
