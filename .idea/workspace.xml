@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e46b072-3ca4-4b89-afda-eaff3c125668" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/DatoInvalidoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/EcoRutaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/EstadoEntrega.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/Etiquetable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/Formato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/TipoMetal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/Tipometalal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EcoRuta/Validaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +64,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/OneDrive/Documentos/GitHub/Parcial-III/src/main/java/EcoRuta",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,6 +79,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\OneDrive\Documentos\GitHub\Parcial-III\src\main\java\EcoRuta" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EcoRuta" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794503596283</updated>
       <workItem from="1794503597630" duration="3342000" />
-      <workItem from="1794518675426" duration="678000" />
+      <workItem from="1794518675426" duration="1314000" />
     </task>
     <servers />
   </component>
